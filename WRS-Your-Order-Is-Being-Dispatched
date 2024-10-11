@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Freezer Delivery is on the Way!</title>
+  <link rel="icon" href="https://consortfrozenfoods.co.uk/wp-content/uploads/2023/04/favicon-consort.svg" type="image/svg+xml">
+</head>
+<body style="margin: 0; padding: 0; font-family: Calibri, Arial, sans-serif; background-color: #f9fafb; color: #333;">
+
+<table width="100%" cellpadding="0" cellspacing="0" style="background-color: #f9fafb; padding: 20px;">
+  <tr>
+    <td align="center">
+      <table width="600" cellpadding="0" cellspacing="0" style="background-color: #ffffff; border-radius: 8px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+        
+        <!-- Header -->
+        <tr>
+          <td style="background-color: #FF4E59; text-align: center; padding: 30px 20px; border-radius: 8px 8px 0 0; color: #fff;">
+            <img src="https://consortfrozenfoods.co.uk/wp-content/uploads/2023/06/Consort-Logo-2022-600x300-1.png" alt="Consort Logo" style="max-width: 150px;">
+            <h1 style="margin: 15px 0; font-size: 24px;">Your Freezer is being dispatched!</h1>
+          </td>
+        </tr>
+
+        <!-- Order Details -->
+        <tr>
+          <td style="padding: 25px;">
+            <h2 style="font-size: 20px; color: #274358;">Order Details</h2>
+            <p style="font-size: 16px;">Date of Order: <strong></strong></p>
+            <p style="font-size: 16px;">Order Number: <strong></strong></p>
+            <p style="font-size: 16px;">Delivery Address: <strong></strong></p>
+            <p style="font-size: 16px;">Delivery Restrictions: <strong></strong></p>
+          </td>
+        </tr>
+
+        <!-- Separator -->
+        <tr>
+          <td style="border-top: 1px solid #e5e7eb;"></td>
+        </tr>
+
+        <!-- Delivery Progress -->
+        <tr>
+          <td style="padding: 25px;">
+            <h2 style="font-size: 20px; color: #274358;">Delivery Progress</h2>
+            <table width="100%" cellpadding="0" cellspacing="0">
+              <tr>
+                <td align="center" style="flex: 1;">
+                  <img src="https://consortfrozenfoods.co.uk/wp-content/uploads/2023/04/favicon-consort.svg" alt="Order Received" style="width: 30px; height: 30px; margin-bottom: 5px;">
+                  <span style="font-size: 14px; display: block; color: #333;">Order Received</span>
+                </td>
+                <td align="center" style="flex: 1;">
+                  <img src="https://consortfrozenfoods.co.uk/wp-content/uploads/2023/04/favicon-consort.svg" alt="Order Processed" style="width: 30px; height: 30px; margin-bottom: 5px;">
+                  <span style="font-size: 14px; display: block; color: #333;">Order Processed</span>
+                </td>
+                <td align="center" style="flex: 1;">
+                  <img src="https://consortfrozenfoods.co.uk/wp-content/uploads/2023/04/favicon-consort.svg" alt="Delivery Booked" style="width: 30px; height: 30px; margin-bottom: 5px;">
+                  <span style="font-size: 14px; display: block; color: #333;">Delivery Scheduled</span>
+                </td>
+                <td align="center" style="flex: 1;">
+                  <img src="https://consortfrozenfoods.co.uk/wp-content/uploads/2024/10/Fav-Icon-Grey.svg-1.png" alt="Delivered" style="width: 30px; height: 30px; margin-bottom: 5px; opacity: 0.2;">
+                  <span style="font-size: 14px; display: block; color: #333;">Delivered</span>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Separator -->
+        <tr>
+          <td style="border-top: 1px solid #e5e7eb;"></td>
+        </tr>
+
+        <!-- Get Ready for Your Freezer -->
+        <tr>
+          <td style="padding: 25px;">
+            <h2 style="font-size: 20px; color: #274358;">Get Ready for Your Freezer!</h2>
+            <ul style="padding-left: 20px;">
+              <li style="margin-bottom: 10px;"><strong>Ensure Access:</strong> Clear a path for the delivery team.</li>
+              <li style="margin-bottom: 10px;"><strong>Free Stock:</strong> Call us once your cabinet has been delivered to arrange delivery of your free stock, don't forget to turn the freezer on 24hrs before delivery!
+            </ul>
+          </td>
+        </tr>
+
+        <!-- Separator -->
+        <tr>
+          <td style="border-top: 1px solid #e5e7eb;"></td>
+        </tr>
+
+        <!-- Explore More Equipment -->
+        <tr>
+          <td style="padding: 25px;">
+            <h2 style="font-size: 20px; color: #274358;">Explore More Equipment</h2>
+            <p style="font-size: 16px;">Discover other products that can complement your new freezer. Check out our range of slush machines, soft serve ice cream machines, and more!</p>
+            <a href="https://www.consortfrozenfoods.co.uk/equipment" style="display: inline-block; background-color: #FF4E59; color: #fff; text-decoration: none; padding: 12px 24px; border-radius: 5px;">Browse Equipment</a>
+          </td>
+        </tr>
+
+        <!-- Separator -->
+        <tr>
+          <td style="border-top: 1px solid #e5e7eb;"></td>
+        </tr>
+
+        <!-- E-Book Card -->
+        <tr>
+          <td style="padding: 25px;">
+            <table width="100%" cellpadding="0" cellspacing="0" style="border: 1px solid #e5e7eb; border-radius: 10px; background-color: #f7f7f7; padding: 20px;">
+              <tr>
+                <td style="width: 150px; padding-right: 20px;">
+                  <img src="https://consortfrozenfoods.co.uk/wp-content/uploads/2024/10/Ebook-Consorts-Guide-to-Retail-Success-in-2024-Cover.png" alt="E-Book Cover" style="max-width: 150px; border-radius: 10px;">
+                </td>
+                <td style="padding-left: 20px;">
+                  <h2 style="font-size: 20px; color: #274358;">Free E-Book: Consort's Guide to Retail Success in 2024</h2>
+                  <p style="font-size: 16px;">Download our e-book packed with tips and strategies to boost your retail success this year!</p>
+                  <a href="https://consortfrozenfoods.co.uk/wp-content/uploads/2024/10/Ebook-Consorts-Guide-to-Retail-Success-in-2024.pdf" style="display: inline-block; background-color: #FF4E59; color: #fff; text-decoration: none; padding: 12px 24px; border-radius: 5px;">Download E-Book</a>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Separator -->
+        <tr>
+          <td style="border-top: 1px solid #e5e7eb;"></td>
+        </tr>
+
+        <!-- Contact Section -->
+        <tr>
+          <td style="padding: 25px; text-align: center;">
+            <h2 style="font-size: 20px; color: #274358;">Need Assistance?</h2>
+            <p>If you have any questions, please don't hesitate to reach out to<br>our customer service team or Walls Refrigeration Solutions</p>
+            <p><strong>Contact WRS:</strong> <a href="tel:01613662500">01613 662500</a></p>
+            <p><strong>Contact Consort:</strong> <a href="tel:01444870111">01444 870111</a></p>
+          </td>
+        </tr>
+
+        <!-- Footer -->
+        <tr>
+          <td style="background-color: #FF4E59; text-align: center; padding: 15px; border-radius: 0 0 8px 8px; color: #fff;">
+            <p style="margin: 0; font-size: 14px;">&copy; 2024 Consort Frozen Foods. All rights reserved.</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</body>
+</html>
